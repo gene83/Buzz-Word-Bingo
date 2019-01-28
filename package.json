@@ -1,0 +1,23 @@
+{
+  "name": "buzz-word-bingo",
+  "version": "1.0.0",
+  "description": "**A Buzz Word Tracker**",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gene83/Buzz-Word-Bingo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gene83/Buzz-Word-Bingo/issues"
+  },
+  "homepage": "https://github.com/gene83/Buzz-Word-Bingo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
